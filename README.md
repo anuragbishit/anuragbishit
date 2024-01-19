@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My self Anurag<br>🤝 I’m looking for help in learning new things<br>🌱 I’m currently learning<br>💬 Ask me about<br>
+🔭 My self Anurag<br>🤝 I’m looking for help in learning new things<br> 😎 Currently I am learning new programming language <br>🌱 I’m currently learning<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:

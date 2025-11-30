@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 Hello Everyone<br>🔭 My self Anurag<br>🤝 I’m looking for help in learning new things<br> 😎 Currently I am learning new programming language <br>🌱 I’m currently persuing B.Tech (CSE)<br>💬 Ask me about<br>
+😎 Hello Everyone<br>🔭 My self Anurag<br>🤝 I’m Frontend developers<br> 😎 Currently I am learning new programming language <br>🌱 I’m currently persuing B.Tech (CSE)<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:

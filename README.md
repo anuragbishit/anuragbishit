@@ -56,6 +56,8 @@ A tool that tracks and visualizes GitHub activity/repo health at a glance. *(edi
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragbishit&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=anuragbishit&theme=default" alt="GitHub Streak" height="165"/>
@@ -64,8 +66,6 @@ A tool that tracks and visualizes GitHub activity/repo health at a glance. *(edi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbishit&layout=compact&theme=default" alt="Top Languages"/>
 </p>
-
----
 
 ### 🏆 GitHub Trophies
 

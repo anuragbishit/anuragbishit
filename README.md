@@ -14,7 +14,7 @@
 - 🌱 Constantly sharpening my skills in **C, C++, Python, JavaScript**
 - 👯 Open to collaborating on **AI/ML and developer tooling projects**
 - 💬 Ask me about **programming, data analysis, or web development**
-- 📫 Reach me at **[your email here]**
+- 📫 Reach me at **[anuragkumarsingh1818@gmail.com]**
 
 ---
 

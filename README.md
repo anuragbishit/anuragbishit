@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **AI Exam Analyzer**
+- 🔭 Currently working on **3D ocean visualization**
 - 🌱 Constantly sharpening my skills in **C, C++, Python, JavaScript**
 - 👯 Open to collaborating on **AI/ML and developer tooling projects**
 - 💬 Ask me about **programming, data analysis, or web development**

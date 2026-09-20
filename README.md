@@ -11,10 +11,10 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **3D ocean visualization**
-- 🌱 Constantly sharpening my skills in **C, C++, Python, JavaScript**
+- 🌱 Constantly sharpening my skills in **C, C++, Python, JavaScript , typescript**
 - 👯 Open to collaborating on **AI/ML and developer tooling projects**
 - 💬 Ask me about **programming, data analysis, or web development**
-- 📫 Reach me at **[anuragkumarsingh1818@gmail.com]**
+- 📫 Reach me at **[anuragkumarsingh1818@gmal.com]**
 
 ---
 
@@ -43,10 +43,10 @@
 
 ### 📌 Featured Projects
 
-**[🧠 AI Exam Analyzer](https://github.com/yourusername/AI-Exam-Analyzer)**
+**[🧠 AI Exam Analyzer](https://github.com/anuragbishit/AI-Exam-Analyzer)**
 An AI-powered tool that analyzes exam performance/answers to provide insights, scoring, or feedback. *(edit this line with the real description)*
 
-**[📈 GitPulse](https://github.com/yourusername/GitPulse)**
+**[📈 GitPulse](https://github.com/anuragbishit/GitPulse)**
 A tool that tracks and visualizes GitHub activity/repo health at a glance. *(edit this line with the real description)*
 
 > 💡 Tip: Add a short line to each project's own README too — what problem it solves, tech used, and a screenshot/GIF if it has a UI. That's what actually gets people clicking in.
@@ -56,12 +56,12 @@ A tool that tracks and visualizes GitHub activity/repo health at a glance. *(edi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragbishit&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=anuragbishit&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbishit&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ---

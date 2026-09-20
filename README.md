@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **3D ocean visualization**
-- 🌱 Constantly sharpening my skills in **C, C++, Python, JavaScript , typescript**
+- 🔭 Currently working on **3D Ocean Visualization**
+- 🌱 Constantly sharpening my skills in **C, C++, Python, JavaScript, typescript**
 - 👯 Open to collaborating on **AI/ML and developer tooling projects**
 - 💬 Ask me about **programming, data analysis, or web development**
-- 📫 Reach me at **[anuragkumarsingh1818@gmal.com]**
+- 📫 Reach me at **[anuragkumarsingh1818@gmail.com]**
 
 ---
 
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 **Tools:**
@@ -62,6 +63,40 @@ A tool that tracks and visualizes GitHub activity/repo health at a glance. *(edi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbishit&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuragbishit&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragbishit&theme=minimal" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragbishit&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  I'm always open to interesting frontend projects, collaborations, or a good tech conversation.
+  <br/>
+  Reach out on <a href="https://linkedin.com/in/anurag-kumar-singh-6486002a6">LinkedIn</a> or check out my <a href="https://portfolio-anurag-kumar-singh.vercel.app">portfolio</a>.
 </p>
 
 ---

@@ -2,19 +2,15 @@
 
 # Hi, I'm Anurag Kumar Singh 👋
 
-### Computer Science Engineering Student • Full-Stack & Data/AI Developer
+### Frontend Developer | Data Analyst | B.Tech CSE Student
 
-I build practical software across **web development, data analytics, AI-powered applications, and developer tools**.
+I build **responsive web applications, interactive dashboards, and data-driven projects** using modern frontend and data technologies.
 
-<a href="https://github.com/anuragbishit">
-  <img src="https://img.shields.io/badge/GitHub-anuragbishit-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://portfolio-anurag-kumar-singh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/anurag-kumar-singh-6486002a6">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<p>
+  <a href="https://portfolio-anurag-kumar-singh.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/anurag-kumar-singh-6486002a6">LinkedIn</a> •
+  <a href="https://github.com/anuragbishit">GitHub</a>
+</p>
 
 </div>
 
@@ -23,164 +19,167 @@ I build practical software across **web development, data analytics, AI-powered 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering student
-- 💻 Interested in **full-stack development, data analytics, AI applications, and developer tooling**
-- 🧠 Comfortable building projects with **Python, JavaScript/TypeScript, C/C++, SQL, React, Flask, FastAPI, and Streamlit**
-- 📊 Enjoy turning raw data into **interactive dashboards, visualizations, and actionable insights**
-- 🚀 Currently focused on building portfolio projects with real-world workflows and clean user experiences
+- 🌐 Focused on **Frontend Development**
+- 📊 Building skills in **Data Analytics & Visualization**
+- 🐍 Working with Python for data analysis and application development
+- 🚀 Interested in building clean, responsive and useful software
+- 📚 Currently improving **DSA, SQL, Excel, Power BI and modern web development**
 
 ---
 
-## 🛠️ Technologies I Work With
+## 💻 Frontend Development
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
+**Languages & Markup**
 
-### Frameworks & Platforms
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-</p>
+HTML5 • CSS3 • JavaScript • TypeScript
 
-### Data, AI & Tools
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+**Frameworks & Libraries**
+
+React • Next.js • Tailwind CSS • Leaflet • Leaflet-Draw
+
+**Frontend Tools**
+
+Vite • npm • Git • GitHub • React DevTools
+
+**What I Build**
+
+- Responsive websites
+- Interactive dashboards
+- Modern UI components
+- Interactive maps and GIS interfaces
+- API-integrated web applications
+- Data visualization interfaces
+
+---
+
+## 📊 Data Analytics
+
+**Languages**
+
+Python • SQL
+
+**Python Data Stack**
+
+Pandas • NumPy • Matplotlib • Plotly • Scikit-learn
+
+**Analytics & BI**
+
+Excel • Power BI • Jupyter Notebook
+
+**Databases**
+
+PostgreSQL • SQLite • MongoDB
+
+**Data Skills**
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL querying
+- Data visualization
+- Dashboard development
+- KPI analysis
+- Basic machine learning
+- Geospatial analysis
+- Data-driven reporting
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,python,pandas,numpy,postgres,sqlite,mongodb,git,github,docker&perline=9" />
+
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ GitPulse — GitHub Analytics Platform
-**Next.js • React • TypeScript • FastAPI • MongoDB • Docker**
+### ⚡ GitPulse
+**GitHub Analytics Platform**
 
-A full-stack GitHub analytics platform designed to collect, store, analyze, and visualize GitHub audience and repository data.
+Full-stack analytics platform for collecting, storing, analyzing and visualizing GitHub audience and repository data.
 
-**Highlights**
-- GitHub API integration and OAuth workflow
-- Historical audience snapshots and growth tracking
-- Repository and traffic analytics
-- Interactive analytics dashboard
-- CSV / JSON export
-- Dynamic GitHub profile badge
-- Docker-based deployment setup
+**Tech:** Next.js • React • TypeScript • FastAPI • MongoDB • Docker
 
-🔗 **[View GitPulse](https://github.com/anuragbishit/GitPulse)**
+[View Project →](https://github.com/anuragbishit/GitPulse)
 
 ---
 
 ### 🚕 Urban Mobility Analytics
-**Python • Streamlit • Pandas • Plotly • PyDeck • GeoPandas • H3 • Scikit-Learn**
+**Data Analytics & Visualization**
 
-An end-to-end urban mobility analytics application for exploring ride-hailing demand, geography, forecasting, operations, and fleet-related metrics.
+Interactive ride-hailing analytics application with demand analysis, forecasting, geospatial visualization and operational analytics.
 
-**Highlights**
-- ETL and data-processing workflow
-- Geospatial feature engineering
-- Interactive demand-density maps
-- Demand forecasting models
-- What-if demand simulation
-- Fleet optimization interface
-- Fraud/anomaly analysis
-- EV & carbon tracking views
-- Driver churn analysis
-- Docker + Pytest + GitHub Actions setup
+**Tech:** Python • Pandas • Streamlit • Plotly • PyDeck • GeoPandas • Scikit-learn
 
-🔗 **[View Urban Mobility](https://github.com/anuragbishit/Urban-mobility)**
+[View Project →](https://github.com/anuragbishit/Urban-mobility)
 
 ---
 
 ### 🧠 AI Exam Analyzer
-**Python • Flask • SQLite • Google Gemini • Plotly**
+**AI-Powered Web Application**
 
-An AI-powered examination platform that combines online tests with automated question generation and performance analysis.
+Online examination platform with AI question generation, performance analysis, weak-topic detection and visual analytics.
 
-**Highlights**
-- User registration and authentication
-- AI-generated topic-based questions
-- Exam creation and submission flow
-- Performance analytics
-- Weak-topic detection
-- Personalized study recommendations
-- Dashboard-based result visualization
+**Tech:** Python • Flask • SQLite • Google Gemini • Plotly
 
-🔗 **[View AI Exam Analyzer](https://github.com/anuragbishit/AI-Exam-Analyzer)**
+[View Project →](https://github.com/anuragbishit/AI-Exam-Analyzer)
 
 ---
 
-### 🗺️ Interactive GIS / AOI Map Application
-**React • Leaflet • Leaflet-Draw • GeoJSON • WMS**
+### 🗺️ Interactive GIS Map
+**Frontend & Geospatial Application**
 
-A browser-based mapping application for interactive basemaps, spatial drawing, shapefile workflows, coordinate tracking, GeoJSON handling, and map export.
+Interactive mapping application with basemaps, WMS layers, drawing tools, shapefile handling, GeoJSON and coordinate tracking.
 
-**Highlights**
-- Multiple basemap layers
-- WMS orthophoto integration
-- Polygon, circle, and rectangle drawing
-- Shapefile-to-GeoJSON workflow
-- Coordinate tracking
-- Screenshot export
-- Layer-oriented map architecture
+**Tech:** React • Leaflet • Leaflet-Draw • GeoJSON • WMS
 
-🔗 **[View Map Project](https://github.com/anuragbishit/MAP)**
+[View Project →](https://github.com/anuragbishit/MAP)
 
 ---
 
 ### 🌐 Developer Portfolio
-A responsive personal portfolio website showcasing projects, skills, experience, education, certifications, and contact information.
 
-🔗 **[View Portfolio](https://github.com/anuragbishit/Portfolio)** • **[Live Website](https://portfolio-anurag-kumar-singh.vercel.app/)**
+Responsive personal portfolio showcasing projects, skills, education and professional information.
 
----
+**Tech:** HTML • CSS • JavaScript
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragbishit&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbishit&hide_border=true" height="165" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbishit&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+[View Project →](https://github.com/anuragbishit/Portfolio) • [Live Website →](https://portfolio-anurag-kumar-singh.vercel.app/)
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🎯 Current Learning
 
-I'm especially interested in opportunities where I can contribute to:
+**Frontend**
+- React & TypeScript
+- Responsive UI
+- API integration
+- Component-based development
 
-**Full-Stack Development · Data Analytics · AI Applications · Developer Tools · Interactive Web Experiences**
-
-I value projects where I can take an idea from **problem definition → implementation → visualization → deployment**.
+**Data Analytics**
+- Advanced SQL
+- Excel
+- Power BI
+- Python for Data Analysis
+- Data Visualization
+- Exploratory Data Analysis
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-anurag-kumar-singh.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/anurag-kumar-singh-6486002a6">LinkedIn</a> •
-  <a href="https://github.com/anuragbishit">GitHub</a>
+
+<a href="https://portfolio-anurag-kumar-singh.vercel.app/">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/anurag-kumar-singh-6486002a6">💼 LinkedIn</a> •
+<a href="mailto:anuragkumarsingh7172@gmail.com">📧 Email</a>
+
 </p>
 
-<p align="center">
-  <b>Building, learning, and shipping one project at a time.</b>
-</p>
+<div align="center">
+
+### Build • Analyze • Learn • Improve 🚀
+
+</div>

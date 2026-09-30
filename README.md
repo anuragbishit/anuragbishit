@@ -31,13 +31,19 @@ I build **responsive web applications, interactive dashboards, and data-driven p
 
 **Languages & Markup**
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" height="32" alt="HTML CSS JavaScript TypeScript" />
+
 HTML5 • CSS3 • JavaScript • TypeScript
 
 **Frameworks & Libraries**
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="32" alt="React Next.js Tailwind CSS" />
+
 React • Next.js • Tailwind CSS • Leaflet • Leaflet-Draw
 
 **Frontend Tools**
+
+<img src="https://skillicons.dev/icons?i=vite,npm,git,github" height="32" alt="Vite npm Git GitHub" />
 
 Vite • npm • Git • GitHub • React DevTools
 
@@ -56,17 +62,23 @@ Vite • npm • Git • GitHub • React DevTools
 
 **Languages**
 
+<img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" /> 🗄️
+
 Python • SQL
 
 **Python Data Stack**
+
+<img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" />
 
 Pandas • NumPy • Matplotlib • Plotly • Scikit-learn
 
 **Analytics & BI**
 
-Excel • Power BI • Jupyter Notebook
+📗 Excel • 📊 Power BI • 📓 Jupyter Notebook
 
 **Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" height="32" alt="PostgreSQL SQLite MongoDB" />
 
 PostgreSQL • SQLite • MongoDB
 

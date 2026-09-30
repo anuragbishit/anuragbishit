@@ -7,9 +7,9 @@
 I build **responsive web applications, interactive dashboards, and data-driven projects** using modern frontend and data technologies.
 
 <p>
-  <a href="https://portfolio-anurag-kumar-singh.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/anurag-kumar-singh-6486002a6">LinkedIn</a> •
-  <a href="https://github.com/anuragbishit">GitHub</a>
+  <a href="https://portfolio-anurag-kumar-singh.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/anurag-kumar-singh-6486002a6">💼 LinkedIn</a> •
+  <a href="https://github.com/anuragbishit">🐙 GitHub</a>
 </p>
 
 </div>
@@ -62,7 +62,7 @@ Vite • npm • Git • GitHub • React DevTools
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" /> 🗄️
+<img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" />
 
 Python • SQL
 
